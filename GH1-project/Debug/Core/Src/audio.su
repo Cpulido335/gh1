@@ -1,0 +1,6 @@
+../Core/Src/audio.c:60:6:Audio_TestTone	24	static
+../Core/Src/audio.c:84:13:fill_buffer	56	static
+../Core/Src/audio.c:148:6:Audio_Start	616	static
+../Core/Src/audio.c:202:6:Audio_Stop	8	static
+../Core/Src/audio.c:215:6:HAL_DAC_ConvHalfCpltCallbackCh1	16	static
+../Core/Src/audio.c:223:6:HAL_DAC_ConvCpltCallbackCh1	16	static

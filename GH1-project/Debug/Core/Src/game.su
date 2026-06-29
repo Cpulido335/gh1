@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/game.c:45:5:init_game	40	static
+../Core/Src/game.c:369:6:update_game	56	static
+../Core/Src/game.c:449:6:register_note_groundcollision_timestamps	16	static
+../Core/Src/game.c:474:6:poll_note_inputs	32	static
+../Core/Src/game.c:527:6:note_input_debouncer_toggle_on	8	static
+../Core/Src/game.c:534:5:poll_input_debouncer	8	static
+../Core/Src/game.c:546:6:update_score_based_on_comparing_timestamps	24	static
+../Core/Src/game.c:569:6:handle_events	8	static
+../Core/Src/game.c:576:6:draw_row	32	static
+../Core/Src/game.c:601:6:erase_row	32	static
+../Core/Src/game.c:620:6:erase_note	24	static
+../Core/Src/game.c:639:6:erase_all_trailing_notes	40	static
+../Core/Src/game.c:663:6:erase_all_trailing_notes_b	40	static
+../Core/Src/game.c:686:6:draw_all_leading_notes	40	static
+../Core/Src/game.c:711:6:display_game_old	24	static
+../Core/Src/game.c:736:6:display_game	72	static
