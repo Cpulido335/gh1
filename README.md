@@ -1,6 +1,8 @@
 
 ## GH1 🎸
-[![Full Documentation](https://img.shields.io/badge/GH1-Read%20Documentation-cc3333?style=for-the-badge)](GH1%20Documentation.pdf)
+
+[![Read Documentation](https://img.shields.io/badge/GH1-Read%20Documentation-cc3333?style=for-the-badge)](GH1%20Documentation.pdf)
+
 GH1 is a portable game system; it is a Guitar Hero style arcade rhythm game running on
 an STM32F4 Micro Controller (GH1-a) and displayed on an ILI9341 Display. GH1 plays
 audio by streaming a .wav file from an onboard microSD card. The microSD card is
