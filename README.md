@@ -10,6 +10,5 @@ achieve the maximum score. The five colored arcade LED buttons have colors that
 correspond to the color of notes on the game. 
 
 [![GH1 Documentation](https://img.shields.io/badge/GH1-Read%20Documentation-cc3333?style=for-the-badge)](GH1%20Documentation.pdf)
-<img width="752" height="843" alt="gh1 picture" src="https://github.com/user-attachments/assets/c24d6e6a-2e4c-4e32-97fa-d09dc65489be" />
-
+<img width="495" height="878" alt="gh1 framed" src="https://github.com/user-attachments/assets/68930d53-085f-43f1-b9cb-c1b5a1c0e160" />
 <img width="752" height="843" alt="gh1 picture" src="https://github.com/user-attachments/assets/5e8ba74f-d0f2-4c5a-9077-380bbb0d090f" />
