@@ -1,6 +1,6 @@
 
 
-[![GH1 - Guitar Hero Embedded Project](GH1-readme-banner.png)](GH1%20Documentation.pdf)
+<img width="1608" height="411" alt="GH1-banner-download" src="https://github.com/user-attachments/assets/2e20b038-7055-4b5c-b077-c3e20a349e3d" />
 
 
 [![Read Documentation](https://img.shields.io/badge/GH1-Read%20Documentation-cc3333?style=for-the-badge)](GH1%20Documentation.pdf)
