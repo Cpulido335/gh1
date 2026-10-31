@@ -1,5 +1,7 @@
 
-## GH1 🎸
+
+[![GH1 - Guitar Hero Embedded Project](GH1-readme-banner.png)](GH1%20Documentation.pdf)
+
 
 [![Read Documentation](https://img.shields.io/badge/GH1-Read%20Documentation-cc3333?style=for-the-badge)](GH1%20Documentation.pdf)
 
