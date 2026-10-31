@@ -1,4 +1,4 @@
-## GH1
+## GH1 🎸
 
 GH1 is a portable game system; it is a Guitar Hero style arcade rhythm game running on
 an STM32 Micro Controller (GH1-a) and displayed on an ILI9341 Display. GH1 plays
